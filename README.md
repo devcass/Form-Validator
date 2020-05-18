@@ -30,7 +30,9 @@ This app features all the latest tools and practices in web development!
 
 ## Getting started
 
-Describe here the way to use/install your project
+1. Clone the project with `git@github.com:devcass/Form-Validator.git`
+2. Enter in the project with `cd Form-Validator`
+3. Click on the file to open on your favorite browser
 
 
 ## License
