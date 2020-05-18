@@ -20,13 +20,22 @@ Form Validator
 
 <hr />
 
-## Features
+## Tools
 [//]: # (Add the features of your project here:)
-This app features all the latest tools and practices in web development!
+This app use all the latest tools and practices in web development!
 
 - 🌳 **HTML** — Standard markup language for Web pages.
 - 🎨 **CSS** —  A stylesheet language used to describe the presentation of a document written in HTML
 - 👨‍💻 **JavaScript** — A lightweight, interpreted, or just-in-time compiled programming language with first-class functions 
+
+## Project Specifications
+
+- Create form UI
+- Show error messages under specific inputs
+- checkRequired() to accept array of inputs
+- checkLength() to check min and max length
+- checkEmail() to validate email with regex
+- checkPasswordsMatch() to match confirm password
 
 ## Getting started
 
